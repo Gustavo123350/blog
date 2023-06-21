@@ -1,0 +1,59 @@
+ body{
+    background-image: url('../assets/OIP.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+
+.p{
+    font-size: 4rem;
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: oblique;
+    margin-top: 400px ;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4em;
+    color: cyan;
+    font-style: italic;
+
+}
+.home{
+    color: aquamarine;
+    font-style: oblique;
+}
+
+.eu{
+    color: aquamarine;
+    font-style: oblique;
+}
+.image1{
+    display: flex;
+     float: left;
+    width: 96px;
+    height: 96px;
+    background-image: url('../assets/bayk.jpg');
+    border-radius: 50%;
+    background-size: cover;
+
+
+}
+.image2{
+    display: flex;
+    width: 96px;
+    height: 96px;
+    background-image: url('../assets/kassandra.jpg');
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7em ;
+}
